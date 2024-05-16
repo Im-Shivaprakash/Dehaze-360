@@ -22,7 +22,7 @@ Dehaze 360 is a Python-based application designed to improve visibility in image
 1. Clone the repository:
     ```bash
     git clone https://github.com/Im-Shivaprakash/Dehaze-360.git
-    cd dehaze360
+    cd Dehaze-360
     ```
 
 2. Install the required libraries:
